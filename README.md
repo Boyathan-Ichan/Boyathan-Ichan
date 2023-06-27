@@ -1,5 +1,1 @@
-fun main(){
-    hola soy @Boyathan-Ichan
-    -Estoy extremadamente interesado por la POO
-    println("esperó y logre aprender delas personas que están aquí")
-}
+alguien sabe como puedo agregar kotlin a VScode?
